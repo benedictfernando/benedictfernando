@@ -12,6 +12,16 @@ _I’m Benedict, a Computer Engineer from Polytechnic University of the Philippi
 
 ## 💻 Tech stacks?
 _My forever growing stacks of technology~ and it keeps getting maaassive!_
+
+### S+ Tier
+- Lorem ipsum
+- Lorem ipsum
+- Lorem ipsum
+### S Tier
+- Lorem ipsum
+- Lorem ipsum
+- Lorem ipsum
+### A Tier
 - Lorem ipsum
 - Lorem ipsum
 - Lorem ipsum
