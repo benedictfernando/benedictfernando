@@ -66,6 +66,7 @@ _My forever growing stacks of technology~ and it keeps getting maaassive!_
     <a href="https://www.sqlite.org/" title="SQLite"><img src="https://github.com/get-icon/geticon/raw/master/icons/sqlite.svg" alt="SQLite" width="30px" height="30px"></a>
 </details>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=benedictfernando&show_icons=true&locale=en&layout=compact" alt="top languages" />
 
 ## ✉️ Let’s keep in touch!
 _Following are where you can reach out on me:_
