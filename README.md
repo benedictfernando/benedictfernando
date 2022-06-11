@@ -14,7 +14,7 @@ _I’m Benedict, a Computer Engineer from Polytechnic University of the Philippi
 ## 💻 Tech stacks?
 _My forever growing stacks of technology~ and it keeps getting maaassive!_
 
-### ⚡ S+ Tier:
+<h3>⚡ S+ Tier</h3>
 <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="30px" height="30px"></a>
 <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="30px" height="30px"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="30px" height="30px"></a>
@@ -34,7 +34,7 @@ _My forever growing stacks of technology~ and it keeps getting maaassive!_
 -->
 
 <details>
-    <summary><h3>🔥 S Tier:</h3></summary>
+    <summary><h3>🔥 S Tier</h3> <i>(level: god)</i></summary>
     <a href="https://www.java.com/" title="Java"><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="30px" height="30px"></a>
     <a href="https://php.net/" title="PHP"><img src="https://github.com/get-icon/geticon/raw/master/icons/php.svg" alt="PHP" width="30px" height="30px"></a>
     <a href="https://csharp.net/" title="C#"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-sharp.svg" alt="C#" width="30px" height="30px"></a>
@@ -50,7 +50,7 @@ _My forever growing stacks of technology~ and it keeps getting maaassive!_
 -->
 
 <details>
-    <summary><h3>🌊 A Tier:</h3></summary>
+    <summary><h3>🌊 A Tier</h3> <i>(level: extreme)</i></summary>
     <a href="https://www.docker.com/" title="docker"><img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="docker" width="30px" height="30px"></a>
     <a href="https://www.ruby-lang.org/" title="Ruby"><img src="https://github.com/get-icon/geticon/raw/master/icons/ruby.svg" alt="Ruby" width="30px" height="30px"></a>
     <a href="https://isocpp.org/" title="C++"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" alt="C++" width="30px" height="30px"></a>
@@ -58,7 +58,7 @@ _My forever growing stacks of technology~ and it keeps getting maaassive!_
 </details>
 
 <details>
-    <summary><h3>💻 IDE and SQLs:</h3></summary>
+    <summary><h3>💻 IDE and SQLs</h3> <i>(level: ultra-mode)</i></summary>
     <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="30px" height="30px"></a>
     <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="PostgreSQL" width="30px" height="30px"></a>
     <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="30px" height="30px"></a>
