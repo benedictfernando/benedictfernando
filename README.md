@@ -63,10 +63,10 @@ _My forever growing stacks of technology~ and it keeps getting maaassive!_
 ## ✉️ Let’s keep in touch!
 _Following are where you can reach out on me:_
 
-<a href="https://gmail.com/" title="Google Gmail"><img src="https://github.com/get-icon/geticon/raw/master/icons/google-gmail.svg" alt="Google Gmail" width="30px" height="30px"></a>
-<a href="https://www.linkedin.com/" title="LinkedIn"><img src="https://github.com/get-icon/geticon/raw/master/icons/linkedin-icon.svg" alt="LinkedIn" width="30px" height="30px"></a>
-<a href="https://www.facebook.com/" title="Facebook"><img src="https://github.com/get-icon/geticon/raw/master/icons/facebook.svg" alt="Facebook" width="30px" height="30px"></a>
-<a href="https://www.reddit.com/" title="Reddit"><img src="https://github.com/get-icon/geticon/raw/master/icons/reddit-icon.svg" alt="Reddit" width="30px" height="30px"></a>
+<a href="https://mail.google.com/mail/u/0/?fs=1&to=bdrf.fernando@gmail.com&tf=cm" title="Google Gmail"><img src="https://github.com/get-icon/geticon/raw/master/icons/google-gmail.svg" alt="Google Gmail" width="30px" height="30px"></a>
+<a href="https://www.linkedin.com/in/benedict-fernando" title="LinkedIn"><img src="https://github.com/get-icon/geticon/raw/master/icons/linkedin-icon.svg" alt="LinkedIn" width="30px" height="30px"></a>
+<a href="https://www.facebook.com/benedictd.fernando" title="Facebook"><img src="https://github.com/get-icon/geticon/raw/master/icons/facebook.svg" alt="Facebook" width="30px" height="30px"></a>
+<a href="https://www.reddit.com/u/benedictfernando" title="Reddit"><img src="https://github.com/get-icon/geticon/raw/master/icons/reddit-icon.svg" alt="Reddit" width="30px" height="30px"></a>
 
 ## 🐾 I’d be just coding here~ hit me up if you haven’t already.
 <img src="https://user-images.githubusercontent.com/70484605/172406451-fae5ce78-9c52-4065-80d3-e393ae9c6203.gif" width="600" /><br />
