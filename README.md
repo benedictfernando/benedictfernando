@@ -5,10 +5,11 @@
 
 ## ✏ Here’s me…
 _I’m Benedict, a Computer Engineer from Polytechnic University of the Philippines._
-- Lorem ipsum
-- Lorem ipsum
-- Lorem ipsum
-- Lorem ipsum
+- 💼 I'm a Software Engineer at [Amdocs](https://www.amdocs.com/)!
+- 🖥️ I'm traversing OOP languages, specifically Java & Ruby.
+- 🚀 I'm taking on my passion projects, mainly: Typo Speed Test and Pomodoro Super App.
+- 🤝 I'm looking to collaborate with local developers _(I'm from Taguig btw!)_
+- 🚲 I'm biking everyday~ I'll see u on the road, by and by!
 
 ## 💻 Tech stacks?
 _My forever growing stacks of technology~ and it keeps getting maaassive!_
