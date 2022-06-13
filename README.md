@@ -12,7 +12,7 @@ _I’m Benedict, a Computer Engineer from Polytechnic University of the Philippi
 - 🚲 I'm biking everyday~ I'll see u on the road, by and by!
 
 ## 💻 Tech stacks?
-_My forever growing stacks of technology~ and it keeps getting maaassive!_
+_My forever growing stack of technologies~ and it keeps getting maaassive!_
 
 <h3>⚡ S+ Tier</h3>
 <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="30px" height="30px"></a>
